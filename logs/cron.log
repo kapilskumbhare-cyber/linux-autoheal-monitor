@@ -1,0 +1,1127 @@
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.07
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.02
+Current RAM Usage: 4%
+Service ssh status: inactive
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+Running self healing...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+SSH restart failed
+Alert mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.07
+Current RAM Usage: 4%
+Service ssh status: inactive
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+Running self healing...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+SSH restart failed
+Alert mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.06
+Current RAM Usage: 4%
+Service ssh status: inactive
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+Running self healing...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+Alert mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.05
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.02
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.20
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.15
+Current RAM Usage: 4%
+Service ssh status: inactive
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+Running self healing...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+touch: cannot touch '': No such file or directory
+Alert mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.05
+Current RAM Usage: 4%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.04
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.01
+Current RAM Usage: 3%
+Service ssh status: inactive
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+Running self healing...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+touch: cannot touch '': No such file or directory
+Alert mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: inactive
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+Running self healing...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+touch: cannot touch '': No such file or directory
+Alert mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: inactive
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+Running self healing...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+touch: cannot touch '': No such file or directory
+Alert mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.04
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 6%
+Current CPU Load: 0.01
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 100%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+/home/kapil/monitor/monitor.sh: 59: echo: echo: I/O error
+/home/kapil/monitor/monitor.sh: 60: echo: echo: I/O error
+/home/kapil/monitor/monitor.sh: 61: echo: echo: I/O error
+/home/kapil/monitor/monitor.sh: 62: echo: echo: I/O error
+/home/kapil/monitor/monitor.sh: 63: echo: echo: I/O error
+----------==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.07
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.02
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 74%
+Current CPU Load: 0.13
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.13
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.05
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.02
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.07
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.02
+Current RAM Usage: 3%
+Service ssh status: inactive
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+Running self healing...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+Alert mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.01
+Current RAM Usage: 3%
+Service ssh status: inactive
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+Running self healing...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+Alert mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.04
+Current RAM Usage: 3%
+Service ssh status: inactive
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+Running self healing...
+==============================
+Self-Healing Activated
+==============================
+Restarting SSH service...
+SSH service restarted successfully
+Alert mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.01
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+Recovery mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+Recovery mail sent
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.06
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.02
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.01
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.06
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.08
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.03
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.01
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.00
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.09
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
+==============================
+ Starting System Monitoring
+==============================
+Current Disk Usage: 1%
+Current CPU Load: 0.03
+Current RAM Usage: 3%
+Service ssh status: active
+Failed login attempts (new): 0
+------------------------------
+Sending data to Decision Engine...
+==============================
+ Monitoring Completed
+==============================
